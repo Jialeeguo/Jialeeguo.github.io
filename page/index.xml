@@ -5,7 +5,7 @@
         <link>https://Jialeeguo.github.io/page/</link>
         <description>Recent content in Pages on 奋斗小郭</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>zh-cn</language>
+        <language>en</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Jialeeguo.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives</title>
@@ -57,15 +57,6 @@
         
         <guid>https://Jialeeguo.github.io/search/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://Jialeeguo.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Jialeeguo.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
         </item>
         
     </channel>
